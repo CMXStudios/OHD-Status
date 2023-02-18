@@ -1,6 +1,5 @@
 
-# OHD STATUS
-
+# OHD STATUS[![CI](https://github.com/CMXStudios/OHD-Status/actions/workflows/rust.yml/badge.svg)](https://github.com/CMXStudios/OHD-Status/actions)
 OHD-Status is a discord bot written in rust-lang using the serenity libary to communicate with discord to gather server data using the library [rust-gamedig](https://github.com/CosminPerRam/rust-gamedig)
 
 # HOW TO RUN
