@@ -3,6 +3,7 @@
 
 
 OHD-Status is a discord bot written in rust-lang using the serenity libary to communicate with discord to gather server data using the library [rust-gamedig](https://github.com/CosminPerRam/rust-gamedig)
+![Example](https://cdn.discordapp.com/attachments/1075562656695586826/1076593011829526528/image.png)
 
 # HOW TO RUN
 WINDOWS
