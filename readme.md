@@ -11,7 +11,7 @@ Go into Releases download the windows.zip extract it anywhere on your windows ma
 
 LINUX
 Go into releases download the linux.zip extract it on your linux server edit the config.cfg set your ip remember the port has to be the query port for the bot to work.
-and then run the binary ./binaryname (Honestly i recommend building it yourself with cargo)
+and then run the binary ./binaryname (Honestly i recommend building it yourself with cargo) Linux Binaries are built with ubuntu will be built in rocky linux in the future.
 
 
 # Known Issues
