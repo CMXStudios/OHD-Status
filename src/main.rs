@@ -53,11 +53,6 @@ async fn query(ctx: Arc<Context>) {
         let ip = getip.as_str();
         let port : u16 = getport.parse().unwrap();
         let response = ohd::query(ip, Some(port));
-        match response {
-        Err(error) => println!("Couldn't query, error: {}", error),
-        Ok(r) => println!("{:#?}", r)
-        }
-
         let info  = response.unwrap();
         let online = info.players_online;
         let servername = info.name;
